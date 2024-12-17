@@ -1,5 +1,6 @@
 import logging
 logging.basicConfig(level=logging.DEBUG)
+import sqlite3
 import streamlit as st
 import os
 import textwrap
