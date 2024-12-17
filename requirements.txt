@@ -22,7 +22,7 @@ reportlab
 # Chroma for vector stores
 chromadb
 Chroma>=0.4
-sqlite3>=3.35.0
+
 
 # Additional Dependencies for Text Handling
 numpy>=1.21.0
