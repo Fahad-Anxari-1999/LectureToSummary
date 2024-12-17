@@ -1,8 +1,8 @@
 # Streamlit
-streamlit>=1.0
+streamlit>=1.14.0
 
 # LangChain
-langchain>=0.0.200
+langchain>=0.0.150
 
 # langchain_google_genai
 langchain_google_genai
@@ -21,8 +21,6 @@ reportlab
 
 # Chroma for vector stores
 chromadb
-Chroma>=0.4
-
 
 # Additional Dependencies for Text Handling
 numpy>=1.21.0
@@ -34,7 +32,5 @@ PyPDF2
 # For text splitting and summarization
 scikit-learn
 
-
 # Python version compatibility
 # Streamlit 1.14 or higher, Python >= 3.8
-
