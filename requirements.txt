@@ -34,3 +34,4 @@ scikit-learn
 
 # Python version compatibility
 # Streamlit 1.14 or higher, Python >= 3.8
+sqlite3>=3.35.0
